@@ -1,5 +1,5 @@
 # Quote Sorting Page
-Vue project that injests a json file of movie/game quotes, displays them on a screen. You can search in real time, filter by movie or game, and has pagination. 
+Vue project that ingests a 3rd party json file of movie/game quotes, displays them on a screen. You can search in real time, filter by movie or game, and has pagination. 
 
 
 
